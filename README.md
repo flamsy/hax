@@ -14,3 +14,8 @@ A first-person puzzle game, where you traverse a randomly generated facility hac
 * Hackable intercoms.
 * Puzzles.
 * Assets, textures and sounds.
+
+### Tutorials
+* [Godot project structure](https://www.buymeacoffee.com/flamsy/godot-project-structure)
+* [Simple level with Blender](https://www.buymeacoffee.com/flamsy/blender-let-make-level)
+* [First-person controller](https://www.buymeacoffee.com/flamsy/first-person-controller-godot)
